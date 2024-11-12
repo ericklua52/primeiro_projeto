@@ -1,0 +1,1 @@
+print("cor amarela")
